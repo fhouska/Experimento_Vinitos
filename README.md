@@ -1,7 +1,7 @@
 # Experimento_Vinitos
 Machine_learing
 
-[logo]: https://github.com/fhouska/Experimento_Vinitos/blob/main/logo.png
+![alt-text](https://github.com/fhouska/Experimento_Vinitos/blob/main/logo.png)
 
 Este repositorio es de un experimento que utiliza el pesos y sesgos para ajustar y evaluar sistemáticamente los hiperparámetros de un clasificador de aumento de gradiente en el conjunto de datos de Wine.
 
