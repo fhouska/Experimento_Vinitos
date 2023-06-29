@@ -10,7 +10,7 @@ Este repositorio es de un experimento que utiliza el pesos y sesgos para ajustar
 
 
 
-[Aquí puedes ver el informe realizado con wandb.ai](https://wandb.ai/fhouska/vinito2/reports/Resultado-esperimento-Vinitos--Vmlldzo0NzY2MjA2)
+[Aquí puedes ver el informe realizado con wandb.ai](https://api.wandb.ai/links/fhouska/z5zswo5t)
 
 
 
