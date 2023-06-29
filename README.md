@@ -1,6 +1,7 @@
 # Experimento_Vinitos
 Machine_learing
 
+https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo"
 
 Este repositorio es de un experimento que utiliza el pesos y sesgos para ajustar y evaluar sistemáticamente los hiperparámetros de un clasificador de aumento de gradiente en el conjunto de datos de Wine.
 
